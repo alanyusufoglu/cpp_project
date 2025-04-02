@@ -1,0 +1,6 @@
+﻿  src.cpp
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\DosyaYoneticisi\DosyaYoneticisi\SRC\src.cpp(62,55): warning C4474: 'scanf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+      C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\DosyaYoneticisi\DosyaYoneticisi\SRC\src.cpp(62,55):
+      yer tutucular ve bunların parametreleri 0 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+  
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\DosyaYoneticisi\DosyaYoneticisi\SRC\src.cpp(62,8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
