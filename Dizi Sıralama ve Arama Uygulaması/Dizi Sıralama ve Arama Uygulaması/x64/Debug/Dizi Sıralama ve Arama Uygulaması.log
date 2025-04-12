@@ -1,0 +1,9 @@
+﻿  SRC.cpp
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\Dizi Sıralama ve Arama Uygulaması\Dizi Sıralama ve Arama Uygulaması\SRC\SRC.cpp(75,13): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\Dizi Sıralama ve Arama Uygulaması\Dizi Sıralama ve Arama Uygulaması\SRC\SRC.cpp(151,1): error C4700: başlatılmamış yerel değişken 'srt' kullanıldı
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\Dizi Sıralama ve Arama Uygulaması\Dizi Sıralama ve Arama Uygulaması\SRC\SRC.cpp(166,1): error C4700: başlatılmamış yerel değişken 'search' kullanıldı
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\Dizi Sıralama ve Arama Uygulaması\Dizi Sıralama ve Arama Uygulaması\SRC\SRC.cpp(27,1): error C4716: 'sorting::bubbleSort' : bir değer döndürmelidir
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\Dizi Sıralama ve Arama Uygulaması\Dizi Sıralama ve Arama Uygulaması\SRC\SRC.cpp(64,1): error C4716: 'sorting::insertionSort' : bir değer döndürmelidir
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\Dizi Sıralama ve Arama Uygulaması\Dizi Sıralama ve Arama Uygulaması\SRC\SRC.cpp(47,1): error C4716: 'sorting::selectionSort' : bir değer döndürmelidir
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\Dizi Sıralama ve Arama Uygulaması\Dizi Sıralama ve Arama Uygulaması\SRC\SRC.cpp(101,1): error C4716: 'searching::lineerSearch' : bir değer döndürmelidir
+C:\Users\alan yusufoğlu\OneDrive\Masaüstü\proje\Dizi Sıralama ve Arama Uygulaması\Dizi Sıralama ve Arama Uygulaması\SRC\SRC.cpp(89,1): error C4716: 'searching::binarySearch' : bir değer döndürmelidir
